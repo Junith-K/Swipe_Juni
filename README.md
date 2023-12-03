@@ -45,6 +45,6 @@ To run the project locally, follow these steps:
 
 ## Deployment
 
-The live deployment of the application can be accessed [here](https://your-invoice-management-app-url.com/).
+The live deployment of the application can be accessed [here](https://swipe-juni.vercel.app/).
 
 Feel free to explore the functionalities and manage your invoices effortlessly!
